@@ -1,0 +1,972 @@
+﻿
+ DecSoft's HTML Compiler History
+
+
+ 2018.8 (05/17/2018)
+
+  * Some enhancements over the brazilian portuguese translation.
+    Thanks Jackson for your work!
+    
+    
+ 2018.7 (05/12/2018)
+
+  * Add the brazilian portuguese language into the HTML Compiler 
+    installer. Some other minor changes, fixes and enhancements.    
+    
+    
+ 2018.6 (05/09/2018)
+
+  * Some enhancements over the brazilian portuguese translation.
+    Thanks Jackson for your work!
+    
+    
+ 2018.5 (05/06/2018)
+
+  * This DecSoft's HTML Compiler release includes the brazilian 
+    portuguese translation for the HTML Compiler IDE. Only the help file 
+    is not translated, but the IDE is completely translated into the 
+    brazilian portuguese language. Thanks very much Jackson for your work!
+    
+    
+ 2018.4 (03/01/2018)
+
+  * This is a major release of this product. If you purchase this 
+    product license before 03/01/2017 you need to upgrade your 
+    license in order to properly register this release. 
+
+    Remember, however, that your DecSoft's licenses never expires.
+    
+    You can upgrade your license with at least an 50% off discount, 
+    but also can download the 03/01/2018 outdated release of this 
+    product to register it with your outdated license. 
+
+    You can do both of these things (upgrade your licenses and 
+    download outdated releases) by login into your DecSoft's 
+    customer area at the DecSoft's website. 
+    
+    Please, write an E-Mail at info@davidesperalta or use the 
+    DecSoft's contact form at the DecSoft's website if you have 
+    any questions.
+    
+    
+ 2018.3 (01/04/2018)
+  
+  * This release of the product has been digitally signed by a new 
+    DecSoft's Certificate provided by Comodo Inc. to us this year. 
+    
+    Remember that all the DecSoft's products are digitally signed. 
+    
+    For your own security, don't trust in non signed executables!
+
+
+ 2018.2 (12/11/2017)
+
+  * The program is now ready to be "attached to the Windows init menu", 
+    that is, the icon of the program scales with the icon and did not 
+    remain "small" if the init menu icon is large.
+  
+  * Update the program in order to use the latest DecSoft's available 
+    graphics, that is, update the program's icons as well as other images 
+    used in the program interface, samples, etc.
+
+
+ 2018.1 (11/29/2017)
+
+  * This is the first release of this DecSoft's product for 
+    the 2018 year. The contain some minor changes in their 
+    documentation, license and other product's resources.
+
+
+ 2017.9 (11/28/2017)
+ 
+  * Add a new ZoomLevel application sample to show how to use the
+    recently added appSetZoomLevel and appGetZoomLevel Javascript
+    external actions added to HTML Compiler.
+
+  * Add two new Javascript external actions: appSetZoomLevel and
+    appGetZoomLevel, which allow us to set the zoom level percentage
+    of our application and get the current zoom level percentage.
+    
+    
+ 2017.8 (08/11/2017)
+
+  * Due to some recent changes in the DecSoft's hosting provider 
+    a change in the product was required in order to properly 
+    register it using the appropiate customer's license information.
+
+
+ 2017.7 (04/24/2017)
+
+  * Replace the old DecSoft's graphics (product's icon and more) 
+    with the new graphics for the DecSoft's software, as well 
+    other minor fixes, changes and enhancements.
+
+
+ 2017.6 (04/02/2017)
+ 
+  * Add the new OpenLinks2 sample, who shown how we can open 
+    external links in our same app's window and also in other 
+    windows.
+    
+    
+ 2017.5 (03/14/2017)
+ 
+  * Lot of minor changes, fixes and enhancements has been made for
+    this HTML Compiler release.
+    
+    
+ 2017.4 (03/02/2017)
+ 
+  * Use a better approach to calculate certain internal measure in
+    the user's created executables. Thanks very much escafandra!
+    
+    
+ 2017.3 (03/01/2017)
+ 
+  * This is a very special release of HTML Compiler, that finally pass
+    around the previous limitation of executables larger than 500MB.
+    
+    HTML Compiler uses a new approach to compile the application's
+    executable files, which is fast, reliable and less prone to errors.
+    
+    Even when now it's possible to compile a 1GB executable, it's not
+    very recommendable to do something like that.
+    
+    If we need to use larger files with our applications, the best
+    approach continue be to excluding that files from the compilation.
+
+    Anyway the HTML Compiler compiler works now fast, realiable and
+    less prone to errors, so this is a very special release.
+      
+    
+ 2017.2 (02/18/2017)
+ 
+  * Add the new sample Directories, which shown how to use the recently
+    added Javascript external functions to play with directories. 
+ 
+  * Add the new sample PCData, which shown how to use the recently
+    added Javascript external functions to obtain some PC data.
+    
+  * Add the new sample Registry, which shown how to use the recently
+    added Javascript external functions to deal with the Registry. 
+    
+  * Modify the existing WriteFile sample, in order to add some of
+    the recently added Javascript external functions.
+
+  * Add the new Javascript external function "appWriteReg", which
+    allow us to write in the Windows registry. See the help for details.
+    
+  * Add the new Javascript external function "appReadReg", which
+    allow us to read from the Windows registry. See the help for details.    
+    
+  * Add the new Javascript external function "appRemoveReg", which
+    allow us to delete keys and values from the Windows registry. 
+    See the help for details.        
+    
+  * Add the new Javascript external function "appComputerName", which
+    allow us to get the name of the computer in which our app is running.
+    See the help for details.            
+    
+  * Add the new Javascript external function "appUserName", which
+    allow us to get the name of the computer's user in which our app 
+    is running. See the help for details.                
+    
+  * Add the new Javascript external function "appCreateDir", which
+    allow us to create folders and subfolders. See the help for details.                    
+    
+  * Add the new Javascript external function "appDirExists", which
+    allow us to check if a directory exists. See the help for details.                        
+    
+  * Add the new Javascript external function "appDocsDir", which allow
+    us to retrieve the user's Documents folder path. See the help for 
+    details.                            
+    
+  * Add the new Javascript external function "appRemoveFile", which allow
+    us to remove files and folders. See the help for details.                                
+    
+    
+ 2017.1 (12/26/2016)
+
+  * This is the first 2017 release of HTML Compiler and means a major 
+    upgrade of the software. Customers who register the program before 
+    01/01/20016 must purchase upgrades licenses of HTML Compiler or, 
+    optionally, continue using the previous release of the software. 
+    Both things can be made from the DecSoft's  website customer's area. 
+    If you have any question, please, don't hesitate to contact me 
+    at: info@davidesperalta.com
+
+
+ 2016.27 (11/09/2016)
+
+  * Take this as a maintenance release.
+  
+  
+ 2016.26 (11/07/2016)
+
+  * Take this as a maintenance release.
+    
+    
+ 2016.25 (11/06/2016)
+
+  * Update and use the latest release of the Inno Setup program, 
+    which is used for our software installer assistant. Also other 
+    very minor minor internal changes and enhancements has been made 
+    in relation with the program's installer.
+
+
+ 2016.24 (11/04/2016)
+  
+  * Update the internal manifest for the generated application's
+    executables in order to be more appropiate for Windows 10.
+    Other minor changes has been also made in this release.
+    
+    
+ 2016.23 (10/18/2016)
+  
+  * The generated applications are placed now in the middle of an
+    screen even if two or more monitors are in use. Before this
+    the applications appear in the middle of the desktop, which
+    means that can appear between two possible monitors.
+    
+    
+ 2016.22 (09/21/2016)
+  
+  * Another minor changes and enhancements has been made into this
+    program release, like the refactoring of the included samples.
+    
+  * Fix some reported problem with the applications when they used
+    a GUI theme different than the default "Windows".
+    
+    
+ 2016.21 (09/01/2016)
+  
+  * The program's help file uses now the "target=_blank" attribute 
+    for all the external links. This is probably what the used 
+    Microsoft HTML Help Workshop program expect from us, but 
+    therefore avoid some possible Javascript problems in external 
+    websites. Thanks Jason! 
+
+
+ 2016.20 (08/23/2016)
+  
+  * The Save Dialog used to save projects are old and do not match
+    the modern dialogs use in another program parts. Fix this by
+    use a modern Windows's dialog when save a project.
+    
+    
+ 2016.19 (08/18/2016)
+  
+  * Add the new "ExitConfirm" application sample, who shown to us
+    how to use the new "appCanClose" Javascript function in our apps.
+  
+  * Add the new "appCanClose" Javascript function "event" for our
+    applications. We can use this new stuff in order to confirm the
+    application termination, that is, we can ask the user, for example,
+    if they really want to exit the application or what, and then 
+    proceed allowing the application to close or not.
+    
+    
+ 2016.18 (07/20/2016)
+  
+  * Add the new "Expiring" applicatoin sample, which show us how
+    we can expire our applications in some way. We use in this sample
+    various external Javascript functions related with files, so you
+    can take a look in order to learn it.
+  
+  * Add the new external function "appFileExists", which allow
+    us to check if an specific file outside the application exists
+    or not. The function accepts paths relative to the application
+    executable file and also absolute system file paths.
+  
+  * Now the external functions "appReadFile", "appOpenFile" and 
+    "appOpenFileWith" never raises any error in runtime, but 
+    continue to raise errors in designtime. Take a look about
+    the new added "appFileExists" external Javascript function.
+    
+  * Fix problems when reading files causes with their encoding:
+    the program saves the files and expect files with an UTF-8
+    codification, and this are not consistent in the past. Now
+    the program write and read with that codification.
+    
+    
+    
+ 2016.17 (06/04/2016)
+  
+  * Add an uninstaller feedback URL to the program installer in 
+    order to allow the users  who uninstall the program to provide 
+    some feedback about the uninstallation reasons. Such URL is 
+    launched then the program is uninstalled from the system's 
+    control panel.
+    
+    
+ 2016.16 (05/20/2016)
+
+  * Fix an introduced error which causes the program updater can't
+    download new releases even if new ones are found in the server.
+    Thanks Walter for the advise!
+
+
+ 2016.15 (05/13/2016)
+
+  * Adapt the program to the latest changes in the author's website.
+    This mean, for example, that the integrated updater can continue
+    working like expected.
+
+
+ 2016.14 (04/04/2016)
+
+  * Add the new "Minimize" application sample, which show us how
+    to use the recently added "appMinimize" and the "appRestore"
+    Javascript external functions.
+
+  * Add the new "appRestore" Javascript external function. This
+    function can be used to restore our application from the
+    Windows' taskbar.
+
+  * Add the new "appMinimize" Javascript external function. This
+    function can be used to minimize our application into the
+    Windows' taskbar.
+
+
+ 2016.13 (03/18/2016)
+
+  * Add a new Preview button in the program's toolbar and also in
+    the Run menu. We can use this new button to preview our HTML
+    application in a window who take in consideration the app's
+    options you specified. Note that not all the features are
+    available in this preview window, which is intended to take
+    a look at the application in a "visual way" and not in a
+    "behaviour way". To do this you can compile/build the app.
+
+  * The program's main window support now to drag HTML files in
+    addition to program's project files to be automatically opened.
+
+  * Added the Arabic translation for the program's GUI. Thanks to
+    MFM Dawdeh-lalalogitech@hotmail.com for their work!
+
+
+ 2016.12 (02/28/2016)
+
+  * Due to the Microsoft Windows Enforcement of Authenticode Code Signing
+    and Timestamping new code signing restrictions (http://goo.gl/ylSUKm)
+    the program's EXEs and the program's installer are now signed and
+    timestamped using the SHA2 algorithm instead the SHA1 algorithm.
+
+
+ 2016.11 (01/21/2016)
+
+  * Take this release as a program's major release. Your current
+    program license can be expired if you buy before to 01/01/2015.
+    You can continue using the old release or upgrade your license.
+
+  * Add the new LocalVideo application sample, which shown us how we
+    can use the Javascript's "appOpenFile" function in order to open
+    local video files from our applications.
+
+
+ 2016.10 (01/13/2016)
+
+  * Fix an error which cause the PlaySound action doesn't works like we
+    can expected if the WAV file exists along the executable file, even
+    if they exists inside the executable.
+
+
+ 2016.9 (01/08/2016)
+
+  * Update Inno Setup to the latest version, which means, between other
+    things, that the program's installer creates a shortcut to the main
+    executable in the common Start Menu Programs folder instead of creating
+    a new Start Menu , following a Microsoft recomendation.
+
+
+ 2016.8 (01/02/2016)
+
+  * The program's installer can now optionally add the program's
+    installation path into the user's environment PATH variable. Doing
+    this we can use the CLI (Command Line Interface) version of HTML Compiler
+    easily from the command's console, just by typing "HtmlCompilerCli,
+    and also open the GUI version just by typing "Compiler".
+
+
+ 2016.7 (12/14/2015)
+
+  * Add the new WriteFile app sample, which show us the usage of the
+    recently added external Javascript function appWriteFile.
+
+  * Add the new appWriteFile external Javascript function. This function
+    allow us to write application's relative text files and also other
+    system or external files.
+
+
+ 2016.6 (12/13/2015)
+
+  * Add the new ReadFile app sample, which show us the usage of the
+    recently added external Javascript function appReadFile.
+
+  * Add the new appReadFile external Javascript function. This function
+    allow us to read application's text files (without extracting), relative
+    application's files and also other system or external files.
+
+  * The appOpenFile, appOpenFileWith, and appPlayWav external Javascript
+    functions has been enhanced in order to support external system file
+    paths in addition to application's relative paths.
+
+
+ 2016.5 (12/12/2015)
+
+  * Add the new Allow user to copy text option in the project options
+    dialog, under the Behaviour tab. This option, unchecked by default,
+    can be checked to allow the user to copy text from our applications.
+
+
+ 2016.4 (12/10/2015)
+
+  * All the program dialogs to open and save files (HTML Compiler
+    project and index HTML files) has been enhanced in order to use
+    the latest available Windows file open and save dialogs controls.
+
+
+ 2016.3 (11/27/2015)
+
+  * Fix a memory leak which occur due to the Delphi version used
+    to develop the program. This memory leak never be reported by
+    the Delphi debugger, but by the Delphi Fast Memory manager.
+
+
+ 2016.2 (11/18/2015)
+
+  * Add the OpenLinks project sample which show us the usage of
+    the recently added appShellExec Javascript external function.
+
+  * Add the new appShellExec Javascript external function, which
+    can be used to open an URL in the default browser in Windows
+    or also to open an external file or program.
+
+
+ 2016.1 (11/15/2015)
+
+  * The program icon has been changed (thanks to www.asleycruz.com)
+    and therefore various changes must be made over the program,
+    some dialogs and app samples. This release also start a new
+    version numeration system, which refer the year of the release
+    and the number of the release, following by the release date.
+
+
+ 3.0 (10/27/2015)
+
+  * Enables Internet Explorer to use a graphics processing unit (GPU)
+    to render content. This dramatically improves performance for apps
+    that are rich in graphics.
+
+
+ 3.0 (10/24/2015)
+
+  * After some report from a chinesse customer, some internal changes
+    has been made into the program to avoid an error while register
+    HTML Compiler with a valid license. Thanks for the advise Zhang!
+
+
+ 3.0 (10/14/2015)
+
+  * Still working internally to catch every possible memory leak.
+    Some refactorings has been made in both GUI and CLI versions of
+    HTML Compiler.
+
+
+ 3.0 (10/12/2015)
+
+  * Fix some possible memory leaks who never appear in the program
+    without the use of certain Delphi thirdparty memory manager, but
+    certainly appear to be solved.
+
+
+ 3.0 (09/19/2015)
+
+  * Enhanced the user interface themes support in both designtime
+    and runtime parts: now not only the main windows and dialogs
+    but also windows standard dialogs respect the selected theme
+    and apply their colors, etc.
+
+
+ 3.0 (09/17/2015)
+
+  * For the first time, HTML Compiler executables and installer
+    are now digitally signed, which meant a better confidence
+    about the program integrity and authoring. You are encourage
+    to assert that the program executables have the appropiate code
+    sign and that my name (David Esperalta Calderon) appear into
+    the executables Digital Sign properties.
+
+  * The program website has been rewriten from scratch and therefore
+    some changes has been made into the program help, updater, etc.,
+    in order to adapt to the new website. The new website resumes in
+    one place (https://www.davidesperalta.com) all my software,
+    including HTML Compiler.
+
+
+ 2.5 (03/08/2015)
+
+ * Compile HTML Compiler GUI and CLI versions as well
+   the runtime program including an appropiate manifest
+   for the new Microsoft Windows 10.
+
+
+ 2.5 (07/27/2015)
+
+ * Add the new PlaySound app sample, which show how we can
+   reproduce a sound when every page of our app is loaded.
+   Basically we use the body onload event and the appropiate
+   Javascript "playWavFile" provided by HTML Compiler.
+
+
+ 2.5 (07/16/2015)
+
+ * Add the new appOpenFileWith external Javascript function,
+   which allow us to open an app internal or external file with
+   the specified executable file, that can be also an app internal
+   or external file.
+
+
+ 2.4 (07/05/2015)
+
+ * Fix a minor error in the program installer which cause
+   the program icon in the Windows Start Menu (when exists...)
+   appear inside a "Default" folder. Now that folder is the
+   name of the program. This problem appear in Windows 7 and
+   10, a not Windows 8 nor Windows 8.1.
+
+
+ 2.4 (06/11/2015)
+
+ * Remove social profiles and add a support forum link
+ * Some other minor fixes, changes and enhancements
+ 
+ 
+ 2.4 (01/19/2015)
+
+ * Add social profiles into menus and about dialog
+ * Some other minor fixes, changes and enhancements
+ 
+ 
+ 2.3 (12/20/2014)
+
+ * Font size and tabs height fit Windows defaults
+ * Some other minor fixes, changes and enhancements
+ 
+ 
+ 2.2 (12/17/2014)
+
+ * Take this as a maintenance release of the program
+ * Some other minor fixes, changes and enhancements
+ 
+ 
+ 2.2 (12/16/2014)
+
+ * Update recently added Windows HTML Compiler sample
+ * Some other minor fixes, changes and enhancements
+ 
+ 
+ 2.2 (12/08/2014)
+
+ * window.open() handle the specified window top
+ * window.open() handle the specified window left 
+ * window.open() handle the specified window width
+ * window.open() handle the specified window height
+ * window.open() handle the specified window resizable
+ * Fix an error when deal with window open and close
+ * Fix an error when use window.close in design time
+ * Some other minor fixes, changes and enhancements
+ 
+ 
+ 2.1 (11/21/2014)
+
+ * Fix an error when play larger WAV files (see help)
+ * Add a new sample "LoopWav" for background music
+ * Some other minor fixes, changes and enhancements
+ 
+ 
+ 2.1 (11/09/2014)
+
+ * A convenient Windows menu shortcut for Windows 10
+ * Some other minor fixes, changes and enhancements
+ 
+ 
+ 2.1 (11/01/2014)
+
+ * Adapt the installer to Windows Technical Preview
+ * Other minor error fixes, changes and enhancements 
+ 
+ 
+ 2.1 (10/18/2014)
+
+ * Runtime execute or extract files they never added
+ * Fix an error which do not execute embedded files  
+ * Fix an error which do not execute external files
+ * Fix an error which do not extract files in runtime
+ * Other minor error fixes, changes and enhancements
+ 
+ 
+ 2.0 (09/23/2014)
+  
+ * New Close project action in the program main menu
+ * Other minor error fixes, changes and enhancements
+ 
+ 
+ 2.0 (09/22/2014)
+  
+ * Update gmap3 library for the Google Maps sample
+ * Other minor error fixes, changes and enhancements
+ 
+ 
+ 2.0 (09/14/2014)
+  
+ * Use Windows TaskBar Progress Bar when compiling
+ * Other minor error fixes, changes and enhancements
+ 
+ 
+ 2.0 (09/11/2014)
+  
+ * Help Polish translation by Marek Olczak (olczak@post.pl)
+ * Other minor error fixes, changes and enhancements
+ 
+ 
+ 2.0 (09/01/2014)
+  
+ * Fix a potential buffer overflow in bitmap processing
+ * Other minor error fixes, changes and enhancements
+ 
+ 
+ 1.9 (07/10/2014)
+  
+ * Fix a label mistake into the program options form
+ * Other minor error fixes, changes and enhancements
+ 
+ 
+ 1.9 (06/02/2014)
+  
+ * Installer is now available also in polish language
+ * Update the polish translation to the latest changes
+ * Other minor error fixes, changes and enhancements
+ 
+ 
+ 1.9 (06/01/2014)
+  
+ * UI Polish translation by Marek Olczak (olczak@post.pl)
+ * Update the program support email to the currently used
+ * About dialog shown now information of program translator
+ * Fallback to english help file on missing translation
+ * Other minor error fixes, changes and enhancements
+ 
+ 
+ 1.9 (05/28/2014)
+  
+ * Add new application min window width projet option
+ * Add new application max window width projet option
+ * Add new application min window height projet option
+ * Add new application max window height projet option
+ * Some changes and enhancements in window preview test
+ * Other minor error fixes, changes and enhancements
+ 
+ 
+ 1.8 (05/25/2014)
+  
+ * Fix some link error into the program help file
+ * Other minor error fixes, changes and enhancements
+ 
+ 
+ 1.8 (05/15/2014)
+  
+ * Change the browser emulation to IE11 edge mode
+ * Other minor error fixes, changes and enhancements
+  
+ 
+ 1.7 (05/13/2014)
+  
+ * Fix the program updater for the new webserver path
+ * Other minor error fixes, changes and enhancements
+  
+  
+ 1.7 (04/05/2014)
+
+ * Allows to delete the Run Parameters historial
+ * Enhance the program Run With Parameters dialog
+ * Some other minor fixes, changes and enhancements
+ 
+ 
+ 1.7 (04/04/2014)
+
+ * Welcome message use the application theme colors
+ * Some other minor fixes, changes and enhancements 
+ 
+ 
+ 1.7 (03/26/2014)
+
+ * New Sky theme for both design and runtime 
+ * New Pink theme for both design and runtime 
+ * New Sepia theme for both design and runtime 
+ * New Khaki theme for both design and runtime
+ * New Lilac theme for both design and runtime
+ * New Orange theme for both design and runtime 
+ * New Light Green theme for both design and runtime
+ * New Blue Graphite theme for both design and runtime
+ * New Green Graphite theme for both design and runtime
+ * New Orange Graphite theme for both design and runtime 
+ * New Yellow Graphite theme for both design and runtime 
+ * Remove final PAUSE in generated compilation BAT file
+ * Some other minor fixes, changes and enhancements
+ 
+ 
+ 1.6 (03/22/2014)
+
+ * Changes in the updater program for a new approach
+ * Some other minor fixes, changes and enhancements
+ 
+ 
+ 1.6 (03/17/2014)
+
+ * Fix the youtube video source in Mega Demo sample
+ * New Search Indexes In Clipboard behaviour option
+ 
+ 
+ 1.6 (03/12/2014)
+
+ * Introducing the new HTML templates capabilities
+ * New HTML application sample showing templates usage
+ * Enhance Navigation Buttons HTML application sample
+ * Fix mistakes in both spanish and english help files
+ * Fix a mistake in some index file dialog text label
+ * Guess clipboard index paths for index file dialog
+ * Some other minor fixes, changes and enhancements
+ 
+ 
+ 1.5 (03/08/2014)
+
+ * New Navigation Buttons HTML application sample
+ * Some other minor fixes, changes and enhancements
+ 
+ 
+ 1.5 (03/04/2014)
+
+ * Some additions to the HTML Compiler help file
+ * Some very minor fixes, changes and enhancements
+ 
+ 
+ 1.5 (02/15/2014)
+
+ * Some very minor fixes, changes and enhancements
+ * Supress Javascript errors by default in runtime
+ * Supress Javascript errors by default in designtime
+ 
+ 
+ 1.4 (01/19/2014)
+
+ * Some very minor fixes, changes and enhancements
+ * Take this also as a program maintenience update
+ 
+ 
+ 1.4 (12/03/2013)
+
+ * Themes applied to dialogs in design and runtime
+ * Some other minor fixes, changes and enhancements
+ 
+ 
+ 1.4 (11/30/2013)
+
+ * Fix some errors in the translation of the program
+ * Some other minor fixes, changes and enhancements
+ 
+ 
+ 1.3 (11/28/2013)
+
+ * Some other minor fixes, changes and enhancements
+ * Some enhancements into the Mega Demo sample project
+ * Guess clipboard index directory for index file dialog
+ 
+ 
+ 1.3 (11/08/2013)
+
+ * Some other minor fixes, changes and enhancements
+ * Add the Hide JavaScript errors behaviour option
+ 
+ 
+ 1.3 (10/08/2013)
+
+ * Some other minor fixes, changes and enhancements
+ * Fix some IE 10 related for webbrowser controls
+  
+ 
+ 1.2 (10/04/2013)
+
+ * Some other minor fixes, changes and enhancements
+ * Fix compiler progress bar when use some UI theme
+ 
+ 
+ 1.2 (10/03/2013)
+
+ * Some other minor fixes, changes and enhancements
+ * Use the IE 10 emulation for webbrowser controls
+ 
+ 
+ 1.2 (09/29/2013)
+
+ * Some other minor fixes, changes and enhancements
+ * Make a little bigger the project compiler window
+ * Set to red the compile progress label when errors
+ 
+ 
+ 1.2 (09/28/2013)
+
+ * Some other minor fixes, changes and enhancements
+ * A new Save button in main toolbar to quick access
+ 
+ 
+ 1.2 (09/27/2013)
+
+ * Some other minor fixes, changes and enhancements
+ * Never shown the main window until password is check
+ 
+ 
+ 1.2 (09/19/2013)
+
+ * Some other minor fixes, changes and enhancements
+ * Do not close the Compiler dialog in case of errors
+ 
+ 
+ 1.2 (09/16/2013)
+
+ * Some other minor fixes, changes and enhancements
+ * Improve UPX task allowing to cancel the compression
+ * Enhance compiler dialog supressing warning messages
+ * Optionally can use now the UPX program when compile
+
+
+ 1.1 (09/15/2013)
+
+ * Some other minor fixes, changes and enhancements
+ * New "Escape key close application" project option
+ * New "Window style" option in project options dialog
+ * New "Window order" option in project options dialog
+ * Add the ScrollPath sample (jQuery and ScrollPath)
+ * Add the Google Maps sample (jQuery and GMap plugin)
+ * Add the Slider Show sample (jQuery and Camera plugin)
+ * Introduce the ppplication window size & border test
+
+
+ 1.1 (09/14/2013)
+
+ * Some other minor fixes, changes and enhancements
+ * Enhance the project window tab in project options
+ * Add new Open Last Recent Project behaviour option
+ * Very minor changes in the project BAT file creator
+
+
+ 1.1 (09/13/2013)
+
+ * Some other minor fixes, changes and enhancements
+ * Fix a mistake that disallow download external files
+ * Move Recent Files menu item and rename to "Reopen"
+
+
+ 1.1 (09/12/2013)
+
+ * Some other minor fixes, changes and enhancements
+ * Fix a minor ugly effect when set the program theme
+ * New Compress Content in project Compile options
+ * Add a "Samples" button in the Index HTML file dialog
+ * Cookies links to the HTML Compiler Mega Demo sample
+
+
+ 1.1 (09/11/2013)
+
+ * Some other minor fixes, changes and enhancements
+ * Fix (not recommended) use of spaces in file names
+ * Fix a minor mistake when shows the theme previews
+
+
+ 1.1 (09/10/2013)
+
+ * Some other minor fixes, changes and enhancements
+ * Shows in main title bar if project is modified
+ * Add new Save Main Form position program option
+ * Add new Enhance Windows Controls program option
+ * Add Theme Preview for the program options dialog
+ * Add Theme Preview for the project options dialog
+ * Better images for disable menu and toolbar items
+
+
+ 1.1 (09/09/2013)
+
+ * Some other minor fixes, changes and enhancements
+ * Add cancel button for save project confirm dialog
+ * Add support for more than half-dozen new themes
+ * Add the new Run Applications With Params feature
+ * Change all tool windows by dialog windows instead
+ * Reorganize the HTML and JS of the Mega Demo sample
+ * Some new samples to the HTML Compiler Mega Demo
+ * Add new "appIsRuntime()" window.external function
+ * Add new "appParamStr()" window.external function
+ * Add new "appParamCount()" window.external function
+ * Do not use My Documents for dialogs initial dir
+ * Fix project to recent files when save from scratch
+ * Show the project path into the program title bar
+ * Add new Save project as... into the File main menu
+
+
+ 1.1 (09/08/2013)
+
+ * Some other minor fixes, changes and enhancements
+ * Put the external JavaScript help in an HTML table
+ * Add the new Project Recent Files characteristic
+ * Fix some mistake when program reuse their instance
+ * Changes to enhance the program main menu categories
+ * Add new Build category into the program main menu
+ * Add new "Create BAT file" action in the File menu
+ * Some other minor fixes, changes and enhancements
+ * Add last versions of program graphics provided
+   by Asley Cruz graphic designer <www.asleycruz.com>
+ * Several other minor fixes, changes and enhancements
+ * Update the help file describing the new HTC CMD
+ * Add a new command line program for BATCH compiling
+ * Separate the compiler engine to be shared with CMD
+
+
+ 1.0 (09/07/2013)
+
+ * Some other minor fixes, changes and enhancements
+ * Fix the compiling progress label blinking effect
+ * Some other minor fixes, changes and enhancements
+ * Change some menu icons to a more visible ones
+ * Allows to choose install dir from the assistant
+ * Take the output file name from index file path
+ * Take the project file name from index file path
+
+
+ 1.0 (09/06/2013)
+
+ * Fix some case sensitive bug with some files
+ * Other minor fixes and code refactorings
+
+
+ 1.0 (09/05/2013)
+
+ * Other minor fixes and code refactorings
+
+ * Add last versions of program graphics provided
+   by Asley Cruz graphic designer <www.asleycruz.com>
+
+
+ 1.0 (09/04/2013)
+
+ * After lots of work and alpha testing efforts
+   this is the first public release of the program
+
+
+
+ Download and contact:
+ ---------------------
+
+
+ https://www.davidesperalta.com/ .- HTML Compiler website
+
+ mailto:info@davidesperalta.com .- Information and support
+

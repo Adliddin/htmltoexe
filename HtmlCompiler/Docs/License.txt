@@ -1,0 +1,16 @@
+﻿End User License Agreement
+
+The following conditions govern your use of the HTML Compiler for Windows® software and other materials:
+
+You are granted a limited license to use this software. This software may be used or copied only in accordance with the terms of this license, which is described in the following paragraphs.
+
+COPYRIGHT
+©2018 David Esperalta. All Rights Reserved. This documentation and the software described within are copyrighted with all rights reserved. No part of this publication may reproduced, transmitted, transcribed, stored in a retrieval system or translated into any language in any form without the express, written permission of David Esperalta.
+
+LICENSE AGREEMENT
+The enclosed software, and its accompanying documentation are protected by both Spain and international copyright laws. Except as noted below, duplication by any means is strictly forbidden and a violation of copyright laws.
+
+You may not distribute serial numbers, product registration cards, documentation, or other related materials (printed or electronic) information which are included with HTML Compiler for Windows®.
+
+LIMITED WARRANTY ON SOFTWARE
+Neither David Esperalta, or its authorized agents shall be liable for consequential, special, indirect, or other similar damages or claims, including loss of profits or any other commercial damages, and in no event will the liability for any damages to you or any other person ever exceed the price paid for the license to use the software, regardless of any form of the claim. David Esperalta specifically disclaims all other warranties, expressed or implied, including, but not limited to, implied warranties of merchantability and fitness for a particular purpose.

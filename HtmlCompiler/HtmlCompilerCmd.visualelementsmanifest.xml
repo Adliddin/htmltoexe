@@ -1,0 +1,15 @@
+<Application xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <VisualElements
+  ForegroundText="dark"
+  BackgroundColor="#FFFFFF"
+  ShowNameOnSquare150x150Logo="off"
+  Wide150x300Logo="Imgs\ExeIcon.png"
+  Wide150x310Logo="Imgs\ExeIcon.png"
+  Square300x300Logo="Imgs\ExeIcon.png"
+  Square310x310Logo="Imgs\ExeIcon.png"
+  Wide300x150Logo="Imgs\ExeIcon.png"
+  Wide310x150Logo="Imgs\ExeIcon.png"
+  Square150x150Logo="Imgs\ExeIcon.png"
+  Square70x70Logo="Imgs\ExeIcon.png"
+ />
+</Application>
